@@ -1,0 +1,20 @@
+.titulo {
+    background-color: none;
+    color: #13293B;
+    padding: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 3px 3px 100px rgba(0, 0, 0, 0.3);
+}
+
+.paragrafo2 {
+    color: chocolate;
+}
+
+.paragrafo3 {
+    color: none;
+}
+
+.paragrafo4 {
+    color: teal;
+}
